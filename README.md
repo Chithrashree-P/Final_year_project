@@ -114,7 +114,7 @@ TROUBLESHOOTING:
 CONTACT INFORMATION:  
 ----------------------------------------------------  
 For questions or support, please contact:  
-- Email: meghachithra@gmail.com
+- Email: pchitrashree@gmail.com
 
 ----------------------------------------------------  
 DISCLAIMER:  
