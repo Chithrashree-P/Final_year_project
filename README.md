@@ -30,14 +30,7 @@ This project integrates hardware sensors, a local server, and a web dashboard to
 
 ## 📁 Project Directory Structure
 
-Milk_Quality_Analysis/
-├── sensors_code/ # Arduino/ESP32 code for sensors
-├── web_code/ # Web interface (PHP, HTML, CSS)
-├── database/
-│ └── milk_quality_db.sql # SQL file to create the database
-├── requirements/ # Required libraries or dependencies
-├── Setup_Guide.pdf # Full setup documentation
-└── README.md # Project README (this file)
+
 
 ---
 
