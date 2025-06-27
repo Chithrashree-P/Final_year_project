@@ -118,6 +118,4 @@ DISCLAIMER:
 ----------------------------------------------------  
 This project is for educational and research purposes only. It is not intended for commercial use without validation and certification.  
 
-====================================================  
-THANK YOU FOR USING THIS PROJECT!  
-====================================================
+#THANK YOU FOR USING THIS PROJECT!  
