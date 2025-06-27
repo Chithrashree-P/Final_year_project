@@ -1,6 +1,5 @@
-# Final_year_project
+# MILK QUALITY ANALYSIS  
   
-               ###  MILK QUALITY ANALYSIS  
 ====================================================  
 
 Welcome to the Milk Quality Analysis project! This project uses multiple sensors to collect data about milk quality and stores it in a local XAMPP server. The data is then displayed on a web page to analyze and visualize milk quality parameters in real time.  
